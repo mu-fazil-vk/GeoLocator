@@ -18,6 +18,7 @@ GeoLocator is a simple and fast IP location finder app that allows you to find t
 <a href="https://www.mediafire.com/file/3lr85anm255vsbv/GeoLocator.apk/file">
   <img src="https://github.com/mu-fazil-vk/Download-Img/blob/main/download.png" height="155" width="300" >
 </a>
+
 ## Getting Started
 
 To start using GeoLocator, follow these steps:
